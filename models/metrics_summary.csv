@@ -1,0 +1,5 @@
+"Model","Accuracy_Pct","Precision_Pct","Recall_Pct","Specificity_Pct","F1_Score_Pct","ROC_AUC"
+"Logistic Regression",94,91.13,91.13,95.47,91.13,0.9891
+"Decision Tree",81.33,71.36,74.88,84.63,73.08,0.8325
+"Random Forest",90.83,89.36,82.76,94.96,85.93,0.9644
+"Support Vector Machine",93,90.86,88.18,95.47,89.5,0.9794

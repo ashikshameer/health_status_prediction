@@ -1,0 +1,5 @@
+"Model","Accuracy","Precision","Recall","F1_Score"
+"Logistic Regression",94,94.79,87.5,91
+"Decision Tree",81.5,74.87,70.19,72.45
+"Random Forest",91,90.96,82.21,86.36
+"Support Vector Machine",93.67,93.37,87.98,90.59

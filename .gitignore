@@ -1,0 +1,14 @@
+# R History and Workspace
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary and Cache files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
